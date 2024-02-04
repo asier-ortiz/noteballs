@@ -1,6 +1,6 @@
 # Noteballs
 
-Notes web app build with Vue3 (Composition API, Pinia, Firebase & Vite)
+Notes web app build with Vue3 (Composition API, Pinia, Firebase, Bulma & Vite)
 
 ## Screenshots
 
